@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589806231 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilppprog1practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
